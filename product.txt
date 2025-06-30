@@ -1,0 +1,6 @@
+Vitamin C Serum, Garnier,1000,1500, France
+Skin Cleanser, Cetaphil,100,280, Switzerland
+Sunscreen, Aqualogica,200,1400, India
+Face Wash, Himalaya,210,180, India
+Conditioner, L'Oreal,264,600, France
+Hair Shampoo,Tresemme,100,450,France
